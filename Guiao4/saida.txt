@@ -1,0 +1,24 @@
+##
+after write line
+# User Database
+after write line
+# 
+after write line
+# Note that this file is consulted directly only when the system is running
+after write line
+# in single-user mode.  At other times this information is provided by
+after write line
+# Open Directory.
+after write line
+#
+after write line
+# See the opendirectoryd(8) man page for additional information about
+after write line
+# Open Directory.
+after write line
+##
+after write line
+nobody:*:-2:-2:Unprivileged User:/var/empty:/usr/bin/false
+after write line
+root:*:0:0:System Administrator:/var/root:/bin/sh
+after write line
