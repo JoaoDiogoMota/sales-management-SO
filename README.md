@@ -2,7 +2,7 @@
 
 # Content
 - Pratical classes' scripts (May contain errors, but this are the basis.)
-- Project
+- [Project](https://github.com/JoaoDiogoMota/sales-management-SO/tree/master/Operating-Systems-Project-master)
 
 #### Projeto
 
